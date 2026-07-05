@@ -332,6 +332,14 @@ Includes:
 
 ## Screenshots
 
+## NOTE: THESE ARE FULLY-ZOOMED OUT (25-50%) NOT MORMAL (100%), ONLY TO TAKE SCREENSHOT OF ENTIRE PAGE. UI APPEAL IS NORMALLY ZOOMED AT 100%.
+
+## Normal UI Dashoboard Overview (scrolled down to see full page)
+
+![Dashboard](screenshots/normalview_dashboard_1.png)
+
+![Dashboard](screenshots/normalview_dashboard_2.png)
+
 ### Dashboard Overview
 
 ![Dashboard](screenshots/dashboard_overview.png)
