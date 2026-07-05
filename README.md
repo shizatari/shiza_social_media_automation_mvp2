@@ -340,6 +340,8 @@ Includes:
 
 ![Caption Generator](screenshots/caption_generator.png)
 
+![Caption Generator](screenshots/caption_generator_gemini.png)
+
 ### Approval Tracker
 
 ![Approval Tracker](screenshots/approval_tracker.png)
