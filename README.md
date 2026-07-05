@@ -340,7 +340,7 @@ Includes:
 ![Dashboard](screenshots/normalview_dashboard_2.png)
 
 
-**Note:** The screenshots below were captured at **25–50% browser zoom** to display the entire application page in a single image. The application is designed to be viewed at the default **100% browser zoom**, where the user interface appears larger and provides the intended viewing experience.
+## **Note:** The screenshots below were captured at **25–50% browser zoom** to display the entire application page in a single image. The application is designed to be viewed at the default **100% browser zoom**, where the user interface appears larger and provides the intended viewing experience.
 ### Dashboard Overview
 
 ![Dashboard](screenshots/dashboard_overview.png)
