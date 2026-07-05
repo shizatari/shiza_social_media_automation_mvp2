@@ -1,0 +1,11 @@
+Test Case,Input,Action Taken,Expected Output,Actual Output,Result
+1,"Platform=Instagram, Topic=Summer Collection",Filled the Caption Generator form and clicked Generate Caption,Instagram caption generated successfully,Instagram caption generated successfully,Pass
+2,"Platform=LinkedIn, Topic=Business Growth",Filled the Caption Generator form and clicked Generate Caption,Professional LinkedIn caption generated,Professional LinkedIn caption generated,Pass
+3,"Platform=Facebook, Topic=Internship Update",Filled the Caption Generator form and clicked Generate Caption,Facebook recruitment caption generated,Facebook recruitment caption generated,Pass
+4,Approval Status = Pending,Selected Pending filter in Approval Tracker,Only pending approval posts displayed,Pending approval posts displayed correctly,Pass
+5,Team Tasks dataset,Opened Team Task Board and reviewed Overdue Tasks,Overdue tasks identified and highlighted,Overdue tasks displayed correctly,Pass
+6,Analytics dataset,Opened Analytics Dashboard,Engagement rate calculated and displayed,Engagement rate displayed correctly,Pass
+7,Analytics dataset,Viewed platform performance charts,Best-performing platform identified,Best-performing platform displayed correctly,Pass
+8,Approved Instagram posts,Selected Platform = Instagram and generated scheduler payload,API-ready JSON generated,scheduler_payloads.json generated successfully,Pass
+9,"Content Calendar, Analytics and Team Tasks",Generated weekly summary,weekly_summary.txt created successfully,weekly_summary.txt created successfully,Pass
+10,Entire application,Generated downloadable test report,CSV exported successfully,CSV exported successfully,Pass

@@ -1,0 +1,35 @@
+task_id,post_id,task_name,assigned_to,due_date,priority,status,notes
+T001,P001,Draft Caption,Zara Ali,2026-06-29,High,Completed,Caption approved by manager
+T002,P001,Design Creative,Bilal Ahmed,2026-06-30,High,Pending,Instagram reel designed
+T003,P001,Schedule Post,Hassan Raza,2026-07-01,Medium,Completed,Published successfully
+T004,P002,Draft Caption,Zara Ali,2026-06-30,High,Completed,Facebook copy completed
+T005,P002,Design Creative,Bilal Ahmed,2026-07-01,High,Completed,Sale banner created
+T006,P002,Schedule Post,Hassan Raza,2026-07-02,Medium,Completed,Published successfully
+T007,P003,Review LinkedIn Content,Ayesha Khan,2026-07-02,Medium,Completed,Content approved
+T008,P004,Create Carousel Design,Bilal Ahmed,2026-07-03,High,Completed,Carousel uploaded
+T009,P005,Collect Customer Images,Noor Fatima,2026-07-04,Medium,Completed,Images received
+T010,P006,Design Story Creative,Bilal Ahmed,2026-06-20,High,In Progress,Waiting for final edits
+T011,P007,Review Sustainability Post,Ayesha Khan,2026-07-06,Medium,Pending,Manager review pending
+T012,P008,Write Product Caption,Zara Ali,2026-07-07,High,Completed,Caption finalized
+T013,P009,Verify Giveaway Rules,Hassan Raza,2026-07-08,High,Pending,Legal review required
+T014,P010,Schedule Instagram Reel,Hassan Raza,2026-07-09,Medium,Pending,Awaiting approval
+T015,P011,Review Company Culture Post,Ayesha Khan,2026-07-10,Low,Pending,Review scheduled
+T016,P012,Prepare Styling Tips,Zara Ali,2026-07-11,Medium,Completed,Ready for publishing
+T017,P013,Design Promotional Banner,Bilal Ahmed,2026-07-12,High,Completed,Banner approved
+T018,P014,Revise Reel Script,Zara Ali,2026-07-13,High,In Progress,Client requested changes
+T019,P015,Verify Delivery Announcement,Ayesha Khan,2026-07-14,Medium,Pending,Needs management approval
+T020,P016,Review Customer Story,Noor Fatima,2026-07-15,Medium,Pending,Waiting for customer confirmation
+T021,P017,Design Hoodie Graphics,Bilal Ahmed,2026-07-16,High,Pending,Design not started
+T022,P018,Capture BTS Photos,Hassan Raza,2026-07-17,Low,Completed,Photos uploaded
+T023,P019,Prepare Milestone Graphic,Bilal Ahmed,2026-07-18,Medium,Pending,Waiting for updated logo
+T024,P020,Create Autumn Teaser,Zara Ali,2026-07-19,Medium,Pending,Content outline ready
+T025,P021,Approve Flash Sale Campaign,Ayesha Khan,2026-07-20,High,Pending,Requires final approval
+T026,P022,Design Fashion Tips Carousel,Bilal Ahmed,2026-07-21,Medium,Pending,Creative brief received
+T027,P023,Review Sustainability Report,Ayesha Khan,2026-07-22,Low,Pending,Internal review
+T028,P024,Write Product Description,Zara Ali,2026-07-23,Medium,Completed,Description approved
+T029,P025,Collect Customer Feedback,Noor Fatima,2026-07-24,Medium,In Progress,Responses being gathered
+T030,P026,Launch Giveaway Campaign,Hassan Raza,2026-07-25,High,Pending,Waiting for marketing approval
+T031,P027,Prepare Expansion Announcement,Zara Ali,2026-07-26,Medium,Pending,Awaiting company update
+T032,P028,Design Winter Collection Story,Bilal Ahmed,2026-07-27,Medium,Pending,Storyboard created
+T033,P029,Review Free Shipping Offer,Ayesha Khan,2026-07-28,High,Pending,Offer under review
+T034,P030,Create Team Introduction Post,Noor Fatima,2026-07-29,Low,Pending,Collecting staff photos
